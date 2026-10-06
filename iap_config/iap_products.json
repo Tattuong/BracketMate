@@ -1,0 +1,19 @@
+{
+  "app": "BracketMate",
+  "package": "com.BracketMateMNG.BracketMate",
+  "remoteConfig": "https://api2.blwsmartware.net/N302.json",
+  "products": [
+    { "productId": "bm_pack_1", "type": "consumable", "stars": 50, "name": "BracketMate Coin Pack 1" },
+    { "productId": "bm_pack_2", "type": "consumable", "stars": 100, "name": "BracketMate Coin Pack 2" },
+    { "productId": "bm_pack_3", "type": "consumable", "stars": 200, "name": "BracketMate Coin Pack 3" },
+    { "productId": "bm_pack_4", "type": "consumable", "stars": 350, "name": "BracketMate Coin Pack 4" },
+    { "productId": "bm_pack_5", "type": "consumable", "stars": 500, "name": "BracketMate Coin Pack 5" },
+    { "productId": "bm_pack_6", "type": "consumable", "stars": 750, "name": "BracketMate Coin Pack 6" },
+    { "productId": "bm_pack_7", "type": "consumable", "stars": 1000, "name": "BracketMate Coin Pack 7" },
+    { "productId": "bm_pack_8", "type": "consumable", "stars": 1500, "name": "BracketMate Coin Pack 8" },
+    { "productId": "bm_pack_9", "type": "consumable", "stars": 2200, "name": "BracketMate Coin Pack 9" },
+    { "productId": "bm_pack_10", "type": "consumable", "stars": 3000, "name": "BracketMate Coin Pack 10" },
+    { "productId": "bm_remove_ads", "type": "non-consumable", "stars": 0, "name": "BracketMate Remove Ads" },
+    { "productId": "bm_pro", "type": "non-consumable", "stars": 0, "name": "BracketMate Pro" }
+  ]
+}
